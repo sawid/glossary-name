@@ -1,0 +1,33 @@
+Healthcare Term
+ - bypass: A procedure used to divert the flow of blood or other fluids. When referring to the heart, shorthand for coronary artery bypass surgery, used to divert blood flow around a blocked coronary artery.
+ - colon: The large intestine; a muscular tube that is 5 to 6 feet long. It compacts and moves solid waste.
+ - cones: Cells in the retina that are sensitive to color and light.
+ - corn: An area of hardened, thickened skin usually caused by friction.
+ - crown: The part of the tooth that is visible above the gum line. Also a restoration that covers the crown of the tooth.
+ - trust: A legal entity in which assets are gathered during a person’s lifetime. That person may control distributions directly or through trustees elected to carry out wishes at a time or point specified. After death, remaining assets are distributed to beneficiaries.
+ - randomized: A feature of many clinical trials in which participants are randomly assigned to either a group to be tested or a control group.
+ - recovery: A process of overcoming addiction to alcohol, other psychoactive substance, or addictive behavior. Often this involves a commitment to abstinence, but sometimes it involves reduced use rather than complete abstinence.
+ - rejection: A reaction that occurs when a person’s immune system recognizes a transplanted organ as a threatening substance and tries to rid the body of it.
+ - resistance: The ability of a pathogen to withstand drugs previously effective against them. Usually the result of genetic mutation.
+Financial & Securities Term
+ - claim: The insured’s request for payment due to loss incurred and covered under the policy agreement.
+ - credit: Borrowing money, or having the right to borrow money, to buy something. Usually it means you’re using a credit card, but it might also mean that you got a loan.
+ - goods: Objects people want that they can touch or hold, such as toys, clothes, and food.
+ - save: Setting something, like money, aside to use in the future.
+ - interest: A fee charged by a lender, and paid by a borrower, for the use of money. A bank or credit union may also pay you interest if you deposit money in certain types of accounts.
+ - policy: In the insurance context, it is a written contract between the insured and the insurer.
+ - premium: The amount of money that has to be paid for an insurance policy.
+ - principal: In the lending context, principal is the amount of money that you originally received from the creditor and agreed to pay back on the loan with interest. In the investment context, it is the amount of money you contribute with the expectation of receiving income.
+ - raise: An increase in the amount of wages or salary.
+ - return: The profit or loss on an investment.
+Telecommunication Term
+ - network: Any connection of two or more computers that enables them to communicate. Networks may include transmission devices, servers, cables, routers and satellites. The phone network is the total infrastructure for transmitting phone messages.
+ - service provider: A telecommunications provider that owns circuit switching equipment.
+ - service plan: The rate plan you select when choosing a wireless phone service. A service plan typically consists of a monthly base rate for access to the system and a fixed amount of minutes per month.
+ - scanner: A radio receiver that moves across a wide range of radio frequencies and allows audiences to listen to any of the frequencies.
+ - station: In the voice world, a station is any terminal equipment that utilizes a port on the switch. Generally, one port is used by one station.
+ - trunks: Individual channels or circuits that can be grouped. This is the smallest denominator for a network facility.
+ - endpoint: A network element at the end of the network such as an H.323 terminal, a Gateway, a Multipoint Controller Unit (MCU), a PC terminal, IP or ISDN phone, or video conference.
+ - exit zone: When you define a prefix for the Exit Zone Service, you need to dial the prefix to reach an endpoint in another zone. This can be useful for restricting unauthorized users from making calls to other zones. The Exit Zone prefix affects the way in which the Gatekeeper tries to complete calls to other zones.
+ - gateway: A network element that performs conversions between different coding and transmission formats. The gateway does this by having many types of commonly used transmission equipment and / or circuits from different carriers to provide a means of interconnection.
+ - video bridge: Computerized switching system which allows multipoint videoconferencing.
